@@ -1,0 +1,2 @@
+# VideoRecording
+基于AVFoundation框架的视频录制Demo
